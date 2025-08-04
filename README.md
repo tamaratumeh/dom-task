@@ -74,3 +74,25 @@ After appending it to the document body:
 ### Challenge:
 
 Use `classList.contains()` to verify that "card" still exists, and remove it while keeping the others.
+
+----
+
+## Submission Instructions
+
+To submit your solutions:
+
+- Fork this repository to your GitHub account.
+
+- Create a folder inside the submissions/ directory named after your GitHub username or full name:
+
+`submissions/your-name/`
+
+- Inside your folder, create one file for the task:
+
+`submissions/your-name/dom.js`
+
+- Push your code to your forked repo.
+
+- Open a Pull Request to this repo from your fork. Title the PR:
+
+`[Your Name] - DOM Assignment Submission`
